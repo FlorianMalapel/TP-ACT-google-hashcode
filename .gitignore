@@ -8,6 +8,9 @@
 bin/*
 bin
 
+#folder
+data
+
 # solver's folder
 glpk-4.57
 
